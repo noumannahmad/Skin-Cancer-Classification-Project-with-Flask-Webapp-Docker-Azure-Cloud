@@ -252,7 +252,7 @@ This project implements a skin cancer classification application using deep lear
 2. **Deploy to Azure Cloud Run**:
 
    ```sh
-   Create account, adn deply the docker container 
+   Create account, and deploy the docker container 
    ```
 
 ### Summary
