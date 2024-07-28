@@ -240,12 +240,12 @@ This project implements a skin cancer classification application using deep lear
 
    ```sh
 
-   docker tag skin_app_image noumannahmad/skin-cancer-webapp:v1 
+   docker tag skin_app_image noumannahmad/flask-webapp-skin-cancer:1.0
 
    #If your app requires linux/amd64, you need to rebuild the Docker image \for the correct architecture. You can specify the target platform using the --platform flag:
 
-   docker build --platform linux/amd64 -t docker.io/noumannahmad/skin-cancer-webapp:v1 .
-   docker push docker.io/noumannahmad/skin-cancer-webapp:v1
+   docker build --platform linux/amd64 -t docker.io/noumannahmad/flask-webapp-skin-cancer:1.0 .
+   docker push docker.io/noumannahmad/flask-webapp-skin-cancer:1.0
 
    ```
 
