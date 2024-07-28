@@ -4,7 +4,7 @@
 
 This project implements a skin cancer classification application using deep learning. It employs a ResNet-50 model trained to classify images of skin lesions as either "Benign" or "Malignant." The application is built with Flask for serving predictions and Docker for containerization. The final Docker container is deployed on Azure Cloud Platform.
 
-## Dataset: https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign?resource=download
+##### Dataset: https://www.kaggle.com/datasets/fanconic/skin-cancer-malignant-vs-benign?resource=download
 
 ## Project Components
 
